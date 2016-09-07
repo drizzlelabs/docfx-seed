@@ -32,6 +32,10 @@
       "_appTitle": "docfx seed website",
       "_enableSearch": true
     },
-    "dest": "_site"
+    "dest": "_site",
+    "template": [
+      "default",
+      "graviton_template"
+    ]
   }
 }
